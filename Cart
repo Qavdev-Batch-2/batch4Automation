@@ -1,1 +1,9 @@
 This is Bunmi's cart Commit
+As a user, I want to be able to add products to my cart so that I can purchase products with ease
+
+REQUIREMENT
+1. User should be able to launch the URL jumia.com.ng
+2. User should be able to add products from different categories to cart
+3. User should be able to click start shopping button from cart to take them to home page where items will be added to cart when cart is empty
+4. User should be able to remove items, increase quantity or reduce quantity from the cart
+5. User should be able to checkout after making all modifications to the products in the cart
