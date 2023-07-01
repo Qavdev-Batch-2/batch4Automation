@@ -1,0 +1,8 @@
+iTITLE: ORDERS
+DESCRIPTION: As a user, I want to receive updates on the status of my order, including confirmation, preparation, pickup, and delivery so i can track my order progress
+
+ Acceptance Criteria.
+1. Launch url jumia.com.ng
+2. User should be able to click on account button and view the ORDERS button from option below
+3 User should be able to view and click on order button 
+4 User should be able to view order page and check orders details ( date of delivery, order ID, order status and tot
