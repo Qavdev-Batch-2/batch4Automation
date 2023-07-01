@@ -1,0 +1,16 @@
+TITLE: CATEGORIES
+
+Description: As a user, I should be able to search for a particular category I want and also view it from the home page of the site and select any category I want.
+
+Acceptance Criteria:
+Users should be able to launch url www.jumia.com.ng.
+user should be able to access the search bar within the category page, allowing the user to further narrow down their search within the selected category.
+Each category should have a clear name or label.
+Users should be able to select the category of item they want from the search box or bar.
+Users should be able to click on any category from the menu or section dedicated to product categories.
+The category page should have a user-friendly layout, showcasing the products.
+The category pages should load quickly and efficiently, ensuring a smooth experience for the customer.
+User should be able to navigate to a dedicated page displaying products only from that chosen category.
+User should be able to return to the main category page.
+Users should be able to view the category section on all devices e.g smartphones, laptops, iPads etc.
+
