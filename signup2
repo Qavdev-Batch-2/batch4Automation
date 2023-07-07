@@ -1,0 +1,13 @@
+TITLE: SIGN UP JUMIA
+DESCRIPTION: As a user, i want to be able to sign-up into my account on Jumia so i will be able to make orders without restriction.
+
+Acceptance Criteria;
+User should be able to launch Url www.jumia.com.ng
+User should be able to view the account button on the homepage on jumia.com.ng
+User should be able to click and be directed to Create an account.
+User should be able to fill and input a valid email address and password
+User should be able to add alphanumeric characters, numbers, signs in their respective fields
+User should be required to pick a specific gender while creating an account.
+User should be able to click the “create account button” to create an account using a valid email address, phone number and password and be directed to the homepage.
+
+
